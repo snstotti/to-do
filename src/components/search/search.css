@@ -1,0 +1,11 @@
+.buttons {
+    margin-bottom: 5px;
+}
+.search {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+.search-panel {
+    margin-right: 5px;
+}

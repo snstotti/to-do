@@ -1,0 +1,13 @@
+.header{
+    color: rgba(136, 37, 53, 0.5);
+    
+}
+.header-block {
+    display: flex;
+    justify-content: space-between;
+}
+.status{
+    margin: auto 0;
+    font-weight: bold;
+    color: darkgray;
+}

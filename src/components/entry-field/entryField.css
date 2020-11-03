@@ -1,0 +1,9 @@
+.entryField {
+   justify-content: space-between;
+   margin-bottom: 5px;
+}
+
+.entryField button {
+   width: 25%;
+   margin-left: 5px;
+}

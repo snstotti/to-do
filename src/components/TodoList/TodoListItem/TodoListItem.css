@@ -1,0 +1,36 @@
+.list_item{
+    display: flex;
+    justify-content: space-between;
+}
+.checkbox-block {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+
+}
+.checkbox{
+    min-width: 20px;
+    min-height: 20px;
+}
+.todo-text {
+    
+    font-size: 20px;
+    margin: 0 0 0 15px;
+
+}
+.button-list {
+    display: flex;
+    align-items: center;
+    
+    
+}
+.link-list {
+    padding: 5px;
+}
+.done {
+    text-decoration: line-through;
+}
+.important {
+    font-weight: bold;
+    color:DarkCyan;
+}
